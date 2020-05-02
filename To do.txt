@@ -1,0 +1,6 @@
+1. Allow the selection of multiple years (e.g. 2019 and 2020)
+2. Allow for customization of graph appearances
+3. Insert error margin / confidence intervals for support and resistances
+4. Automatize optimal choice of min_prominence
+5. Insert trading rule of "min of three hits to confirm a support/resistance"
+   (no support/resistance passing through only one or two points)
